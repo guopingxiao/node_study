@@ -1,0 +1,25 @@
+{
+  "name": "npm-dev_xiaoguoping",
+  "version": "1.0.1",
+  "description": "this is the npm demp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "xiaoguoping",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guopingxiao/node_study"
+  },
+  "keywords": [
+    "hah"
+  ],
+  "bugs": {
+    "url": "https://github.com/guopingxiao/node_study/issues"
+  },
+  "homepage": "https://github.com/guopingxiao/node_study#readme"
+}
